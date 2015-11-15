@@ -1,12 +1,29 @@
+#+-------------------------------------------------
+#| File Name:  .gitignore
+#+-------------------------------------------------
+#| File Desc:  The ignore files will be writed here
+#+-------------------------------------------------
+#| File Date:  2015/11/15 
+#+-------------------------------------------------
+
+
+# Ignore the IDE framework files.
+
+KlipHome.iml
+
+.idea/
+
+# Ignore the class file and jar file.
+
 *.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
 *.jar
-*.war
-*.ear
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+
+
+
+
+
+
+
+
