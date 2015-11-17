@@ -10,6 +10,7 @@
 # Ignore the IDE framework files.
 
 KlipHome.iml
+home.iml
 
 .idea/
 
